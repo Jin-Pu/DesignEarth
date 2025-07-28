@@ -4,14 +4,12 @@
 [![Home](https://img.shields.io/badge/Home-DesignEarth-blue)](https://github.com/DesignEarth) 
 [![Paper](https://img.shields.io/badge/Paper-PDF-red)](https://arxiv.org/abs/XXXX.XXXXX) 
 [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97-HuggingFace-yellow)](https://huggingface.co/datasets/DesignEarth)
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-black)](https://github.com/DesignEarth/DesignEarth)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-black)](https://jin-pu.github.io/DesignEarth)
 ## Overview
 The **DesignEarth** dataset addresses a critical gap in aerial imagery research by providing the first large-scale multimodal resource that integrates:
 - 265,247 georeferenced high-resolution (1.2m) aerial images
 - 1,060,988 corresponding condition images (4 types per aerial image)
 - 530,494 semantic descriptions (38.4M+ tokens)
-
-Developed by Pu Jin and team, this dataset enables breakthroughs in **controllable aerial image generation** through synergistic multi-modal inputs.
 
 ## Key Features
 
@@ -68,7 +66,7 @@ Each data entry contains:
 
 ## Applications
 - Controllable aerial scene synthesis
-- Map-to-image generation
+- Text-to-image generation
 - Remote sensing analysis:
   - Building footprint detection
   - Semantic segmentation
