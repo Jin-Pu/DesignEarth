@@ -27,7 +27,7 @@ Each data entry contains:
    - Long and short captions
    - Model-generated + human-refined (using Florence-2)
 
-![Sample Entries](https://example.com/path/to/figure3.png) *(Figure 3 from paper showing multi-modal samples)*
+![Sample Entries](./images/samples.jpg)
 
 ### Geographic Diversity
 - Sourced globally via Google Earth Engine
