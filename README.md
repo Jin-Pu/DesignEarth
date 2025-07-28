@@ -1,6 +1,7 @@
 # DesignEarth: A Multimodal Dataset for Controllable Aerial Image Generation
 
-![DesignEarth Logo](https://example.com/path/to/logo.png) *(placeholder for actual logo image)*
+![DesignEarth Logo](./images/logo.jpg)
+
 [![Home](https://img.shields.io/badge/Home-DesignEarth-blue)](https://github.com/DesignEarth) 
 [![Paper](https://img.shields.io/badge/Paper-PDF-red)](https://arxiv.org/abs/XXXX.XXXXX) 
 [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97-HuggingFace-yellow)](https://huggingface.co/datasets/DesignEarth)
@@ -30,7 +31,7 @@ Each data entry contains:
 ### Geographic Diversity
 - Sourced globally via Google Earth Engine
 - Covers urban/rural landscapes, natural environments, and industrial sites
-- Balanced distribution across multiple countries *(see Figure 1 in paper)*
+- Distribution across multiple countries
 
 | Country | Number of Images |
 |---------|------------------|
